@@ -24,6 +24,13 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 - **Smartphone:** Dispositivos iOS o Android para la sincronización y configuración inicial
 
 ## Prototipos
+<p align="center">
+    <img src="./Primer boceto.png" alt="banner flutter" width="330"/>
+</p>
+
+<p align="center">
+    <img src="./Segundo boceto.png" alt="banner flutter" width="330"/>
+</p>
 
 ## Tablero Trello
    [Trello](https://trello.com/b/TBIptBx5/moneyminder)
