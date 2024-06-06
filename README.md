@@ -25,8 +25,8 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 
 ## Prototipos
 <p align="center">
-    <img src="./Primer boceto.png" alt="banner flutter" width="330"/>
-    <img src="./Segundo boceto.png" alt="banner flutter" width="330"/>
+    <img src="./Primer boceto1.png" alt="banner flutter" width="330"/>
+    <img src="./Segundo boceto2.png" alt="banner flutter" width="330"/>
 </p>
 
 ## Tablero Trello
