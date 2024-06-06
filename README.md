@@ -26,9 +26,6 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 ## Prototipos
 <p align="center">
     <img src="./Primer boceto.png" alt="banner flutter" width="330"/>
-</p>
-
-<p align="center">
     <img src="./Segundo boceto.png" alt="banner flutter" width="330"/>
 </p>
 
