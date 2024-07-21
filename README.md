@@ -27,8 +27,10 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 
 ## Hardware Empleado
 
-- **Dispositivo Wearable:** Smartwatches compatibles con Wear OS o Apple Watch
-- **Smartphone:** Dispositivos iOS o Android para la sincronización y configuración inicial
+| **Id** | **Componente**          | **Descripción**                                                                                       | **Imagen**                                       | **Cantidad** | **Costo total (MXN)** |
+|--------|-------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------|-----------------------|
+| 1      | Dispositivo Wearable    | Smartwatches compatibles con Wear OS o Apple Watch                                                    | ![Wearable](https://via.placeholder.com/50)      | 1            | 3000                  |
+| 2      | Smartphone              | Dispositivos iOS o Android para la sincronización y configuración inicial                             | ![Smartphone](https://via.placeholder.com/50)    | 1            | 5000                  |
 
 ## Prototipos
 <p align="center">
