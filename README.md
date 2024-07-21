@@ -10,13 +10,20 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 
 ## Software Empleado
 
-- **Lenguaje de Programación:** Dart
-- **Framework:** Flutter
-- **Backend:** Firebase (Firestore para la base de datos, Firebase Authentication para la autenticación)
-- **Notificaciones Push:** Firebase Cloud Messaging
-- **Control de Versiones:** Git
-- **IDE:** Visual Studio Code 
-- **Emulador:** Android Studio 
+## Stack Tecnológico
+
+| **Componente**                  | **Descripción**                                       | **Versión** | **Tipo**        |
+|---------------------------------|-------------------------------------------------------|-------------|-----------------|
+| **Lenguaje de Programación**    | Dart                                                  | x.x.x       | Lenguaje        |
+| **Framework**                   | Flutter                                               | x.x.x       | Framework       |
+| **Backend**                     | Firebase                                              |             | Backend         |
+| **Base de Datos**               | Firestore                                             |             | Base de Datos   |
+| **Autenticación**               | Firebase Authentication                               |             | Autenticación   |
+| **Notificaciones Push**         | Firebase Cloud Messaging                              |             | Notificaciones  |
+| **Control de Versiones**        | Git                                                   |             | Control de Versión |
+| **IDE**                         | Visual Studio Code                                    |             | IDE             |
+| **Emulador**                    | Android Studio                                        |             | Emulador        |
+
 
 ## Hardware Empleado
 
