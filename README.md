@@ -31,7 +31,10 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 |--------|-------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------|-----------------------|
 | 1      | Dispositivo Wearable    | Smartwatches compatibles con Wear OS o Apple Watch                                                    | ![Wearable](https://via.placeholder.com/50)      | 1            | 3000                  |
 | 2      | Smartphone              | Dispositivos iOS o Android para la sincronización y configuración inicial                             | ![Smartphone](https://via.placeholder.com/50)    | 1            | 5000                  |
-
+| 3      | Microcontrolador ESP32  | Módulo ESP32 para prototipos y pruebas de hardware                                                    | ![ESP32](https://via.placeholder.com/50)         | 1            | 165                   |
+| 4      | Placa de Pruebas        | Protoboard para conexiones temporales y pruebas                                                       | ![Protoboard](https://via.placeholder.com/50)    | 1            | 110                   |
+| 5      | Cables de Conexión      | Cables de puente macho-macho, macho-hembra, hembra-hembra                                             | ![Cables](https://via.placeholder.com/50)        | 5            | 55                    |
+| 6      | Batería Recargable      | Baterías recargables para alimentar el ESP32 y otros componentes                                      | ![Batería Recargable](https://via.placeholder.com/50) | 1        | 120                   |
 ## Prototipos
 <p align="center">
     <img src="./Primer boceto1.png" alt="banner flutter" width="330"/>
