@@ -1,7 +1,7 @@
 .flutter-plugins-dependencies
 ios/Flutter/flutter_export_environment.sh
 # Miscellaneous
-*.class
+*.class 
 *.log
 *.pyc
 *.swp
