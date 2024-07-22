@@ -12,7 +12,7 @@
 ///       - asset: fonts/ComoGastoIcons.ttf
 ///
 /// 
-///
+/// 
 import 'package:flutter/widgets.dart';
 
 class ComoGastoIcons {
